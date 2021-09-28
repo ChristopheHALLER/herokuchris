@@ -1,0 +1,19 @@
+NODE JS :
+
+Outil libre codé en JS
+Environnement d'execution permattant d'utiliser le JS coté serveur
+Permet de dev des applications en reseaux (serveur, API,)
+Node 
+
+
+API REST
+Imposé comme référence pour les échanges de données entre serveurs et clients.
+style d'API
+
+
+
+
+GET : chercher une ressource spécifié
+POST : envoyer une entité vers la ressource indiqué
+PUT : remplacer des elements dans une ressource
+DELETE : supprime la ressource indiqué
